@@ -1,0 +1,6 @@
+{
+  "name": "Game of Life",
+  "description": "Conway's Game of Life cellular automaton built with React and Canvas, featuring an interactive touch-friendly grid and controls for generation speed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
